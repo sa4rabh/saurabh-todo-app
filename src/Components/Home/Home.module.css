@@ -1,0 +1,12 @@
+.home-container .container .row .col{
+  font-size: 2rem;
+  font-weight: 800;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+*{
+  font-size: 1.2rem;
+}
+.home{
+  background: linear-gradient(to right,aquamarine,#cc80ff);
+
+}
